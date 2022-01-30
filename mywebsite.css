@@ -1,0 +1,49 @@
+
+#background{
+	background-image:url(imagees/nag.jpg);
+	min-height:900px;
+	width:100%;
+	background-position:cover;
+	background-repeat:no-repeat;
+}
+#cover{
+	min-height:900px;
+	width:100%;
+	background-color:rgba(30,30,30,0.8);
+	background-position:cover;
+	min-height:1333px;
+}
+#topping{
+	font-family:"Times New Roman",Times, serif;
+	text-align:center;
+	font-size:35px;
+	color:#00f;
+	font-weight:bold;
+}
+nav{
+	border-radius:5px;
+	width:100%;
+	height:100px;
+}
+.curl{
+	color:white;
+}
+.justify{
+	text-align:justify;
+}
+.about{
+	color:#00f;
+	text-align:center;
+	font-weight:bold;
+}
+.run{
+	font-size:20px;
+	
+}
+.footer{
+	background-color:rgb(190,150,160);
+}
+/*div{
+	border:2px solid white;
+	min-height:100px;
+}*/
